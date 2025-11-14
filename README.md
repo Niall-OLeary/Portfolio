@@ -1,9 +1,9 @@
 # Hi, I'm Niall O'Leary 👋  
 
 **Data Analyst | Power BI Developer | Data Engineer**  
-Skilled in SQL, Power BI, data modelling, and transforming raw data into actionable insights.
+Skilled in SQL, Power BI, data modelling and ETL pipelines. All with a focus of transforming raw data into actionable business insights.
 
-Welcome to my GitHub portfolio — a collection of analytical projects, dashboards, and technical work showcasing my experience across operational reporting, BI development, and data-driven decision-making.
+Welcome to my GitHub portfolio — a collection of analytical/engineering projects, dashboards, and technical work showcasing my experience across operational reporting, BI development, and data engineering. 
 
 ---
 
@@ -34,12 +34,12 @@ Short description — e.g., automation, analysis, modelling, dashboarding.
 
 ## 🧰 Skills & Tools
 
-**Data & Analytics:** SQL (advanced), Power BI, DAX, Power Query, Excel (advanced)  
+**Data & Analytics:** SQL (advanced), Power BI, DAX, Power Query, Excel  
 **BI & Reporting:** Power BI, Qlik Sense
 **Databases:** Snowflake, MySQL  
 **Cloud & Pipelines:** Azure, AWS, Snowflake ETL workflows  
-**Programming:** Python 
-**Other:** Requirements gathering, stakeholder reporting, training & mentoring analysts
+**Programming:** Python
+**Other:** Requirements gathering, stakeholder management, training & mentoring analysts
 
 ---
 
@@ -62,15 +62,14 @@ I'm an Operational Performance Analyst with experience across BI development, SQ
 I enjoy building dashboards, improving data workflows, and delivering insights that support operations, strategy, and performance.
 
 Past roles include:
-- Operational Performance Analyst - AKG UK (SQL, Snowflake, Power BI)
-- BI Developer (QlikView/QlikSense)
-- Data Analyst & Reporting Lead (Power BI, NHS reporting)
-- Data Analyst (MySQL, Power BI)
+- Operational Performance Analyst - AKG UK (SQL, Snowflake, Power BI, Azure, AWS)
+- BI Developer - Vygon UK (QlikView/QlikSense)
+- Data Analyst & Reporting Lead - Psychiatry UK (MySQL, Power BI, NHS Reporting)
 
 ---
 
 ## 📫 Contact
 
-- **LinkedIn:** *Add your link here* 
+- **LinkedIn:** https://www.linkedin.com/in/niall-o%E2%80%99leary-330729197/
 
 ---
