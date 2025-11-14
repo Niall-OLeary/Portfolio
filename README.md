@@ -49,10 +49,10 @@ A full list of additional project repositories:
 
 | Project | Description | Tech | Repo |
 |--------|-------------|------|------|
-| Logistical Analysis of Mandated Appointments | Showed the relationship between mandating a participant to attend appointments and its affect on attendance rates and programme performance  | Python, Logistical Regression | [Link](#) |
-| Project 2 | Brief summary | QlikSense, ETL | [Link](#) |
-| Project 3 | Brief summary | Python, Excel | [Link](#) |
-| Project 4 | Brief summary | SQL, Data Modelling | [Link](#) |
+| Performance Portal | Took full ownership of the end-to-end development of my first dashboard, designed to display the Monthly Workbook and visualise performance insights for the SLT. Enabled the team to identify factors affecting AKG’s performance relative to DWP expectations and support data-driven decision-making. | Snowflake, Data Modelling, Power BI | [Link](#) |
+| Logistical Analysis of Mandated Appointments | Analysed the impact of mandatory appointment attendance on attendance rates and overall programme performance.  | Python, Logistical Regression, SQL | [Link](#) |
+| Customer Feedback Sentiment Analysis | Leveraged Snowflake’s AI_COMPLETE functionality to integrate a large language model (LLM) directly within the data warehouse for automated sentiment analysis. | Snowflake, SQL, LLM | [Link](#) |
+| AKG Data Dictionary | Developed a comprehensive data dictionary cataloging all tables and fields within our Snowflake database. | Snowflake, Excel | [Link](#) |
 
 ---
 
