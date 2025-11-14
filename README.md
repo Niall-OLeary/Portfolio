@@ -21,7 +21,7 @@ Short 1–2 sentence description of what the project demonstrates.
 ### 📈 Project 2 — *DWP MI Pack Pipeline*  
 Short description about the purpose, insights, or techniques used.  
 **Tech:** SQL, Qlik Sense, ETL  
-🔗 **Repo:** [Link to project](#)
+🔗 **Repo:** https://github.com/Niall-OLeary/DWP-MI-Pack-Pipeline.git
 
 ---
 
