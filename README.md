@@ -11,21 +11,21 @@ Welcome to my GitHub portfolio — a collection of analytical/engineering projec
 
 Below are a few highlighted projects.
 
-### 📊 Project 1 — *Project Title Here*  
+### 📊 Project 1 — *Incremental Appointment Data Pipeline*  
 Short 1–2 sentence description of what the project demonstrates.  
 **Tech:** SQL, Power BI, Python  
 🔗 **Repo:** [Link to project](#)
 
 ---
 
-### 📈 Project 2 — *Project Title Here*  
+### 📈 Project 2 — *DWP MI Pack Pipeline*  
 Short description about the purpose, insights, or techniques used.  
 **Tech:** SQL, Qlik Sense, ETL  
 🔗 **Repo:** [Link to project](#)
 
 ---
 
-### 🧹 Project 3 — *Project Title Here*  
+### 🧹 Project 3 — *AKG Monthly Workbook*  
 Short description — e.g., automation, analysis, modelling, dashboarding.  
 **Tech:** Power BI, Excel, Python  
 🔗 **Repo:** [Link to project](#)
