@@ -28,7 +28,7 @@ Short description about the purpose, insights, or techniques used.
 ### 🧹 Project 3 — *AKG Monthly Workbook*  
 Short description — e.g., automation, analysis, modelling, dashboarding.  
 **Tech:** Power BI, Excel, Python  
-🔗 **Repo:** [Link to project](#)
+🔗 **Repo:** https://github.com/Niall-OLeary/AKG-Monthly-Workbook.git
 
 ---
 
