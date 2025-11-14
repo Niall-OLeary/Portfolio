@@ -1,4 +1,4 @@
-# Hi, I'm Niall O'Leary 👋  
+# Hi, I'm Niall O'Leary
 
 **Data Analyst | Power BI Developer | Data Engineer**  
 Skilled in SQL, Power BI, data modelling and ETL pipelines. All with a focus of transforming raw data into actionable business insights.
