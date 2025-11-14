@@ -38,7 +38,7 @@ Short description — e.g., automation, analysis, modelling, dashboarding.
 **BI & Reporting:** Power BI, Qlik Sense
 **Databases:** Snowflake, MySQL  
 **Cloud & Pipelines:** Azure, AWS, Snowflake ETL workflows  
-**Programming:** Python
+**Programming:** Python  
 **Other:** Requirements gathering, stakeholder management, training & mentoring analysts
 
 ---
