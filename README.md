@@ -14,7 +14,7 @@ Below are a few highlighted projects.
 ### 📊 Project 1 — *Incremental Appointment Data Pipeline*  
 Short 1–2 sentence description of what the project demonstrates.  
 **Tech:** SQL, Power BI, Python  
-🔗 **Repo:** [Link to project](#)
+🔗 **Repo:** https://github.com/Niall-OLeary/Incremental-Appointment-Data-Pipeline.git
 
 ---
 
