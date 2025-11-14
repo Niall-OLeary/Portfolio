@@ -43,13 +43,13 @@ Short description — e.g., automation, analysis, modelling, dashboarding.
 
 ---
 
-## 📂 All Projects
+## 📂 Other Projects
 
-A full list of project repositories:
+A full list of additional project repositories:
 
 | Project | Description | Tech | Repo |
 |--------|-------------|------|------|
-| Project 1 | Brief summary | SQL, Power BI | [Link](#) |
+| Logistical Analysis of Mandated Appointments | Showed the relationship between mandating a participant to attend appointments and its affect on attendance rates and programme performance  | Python, Logistical Regression | [Link](#) |
 | Project 2 | Brief summary | QlikSense, ETL | [Link](#) |
 | Project 3 | Brief summary | Python, Excel | [Link](#) |
 | Project 4 | Brief summary | SQL, Data Modelling | [Link](#) |
