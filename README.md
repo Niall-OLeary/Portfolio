@@ -1,6 +1,6 @@
 # Hi, I'm Niall O'Leary 👋  
 
-**Operational Performance Analyst | Business Intelligence Developer | Data Analyst**  
+**Data Analyst | Power BI Developer | Data Engineer**  
 Skilled in SQL, Power BI, data modelling, and transforming raw data into actionable insights.
 
 Welcome to my GitHub portfolio — a collection of analytical projects, dashboards, and technical work showcasing my experience across operational reporting, BI development, and data-driven decision-making.
