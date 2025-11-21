@@ -62,7 +62,7 @@ I'm an Operational Performance Analyst with experience across BI development, SQ
 I enjoy building dashboards, improving data workflows, and delivering insights that support operations, strategy, and performance.
 
 Past roles include:
-- Operational Performance Analyst - AKG UK (SQL, Snowflake, Power BI, Azure, AWS)
+- Operational Performance Analyst - AKG UK (SQL, Snowflake, Python, Power BI, Azure, AWS)
 - BI Developer - Vygon UK (QlikView/QlikSense)
 - Data Analyst & Reporting Lead - Psychiatry UK (MySQL, Power BI, NHS Reporting)
 
