@@ -51,7 +51,7 @@ A full list of additional project repositories:
 |--------|-------------|------|------|
 | Performance Portal | Took full ownership of the end-to-end development of my first dashboard, designed to display the Monthly Workbook and visualise performance insights for the SLT. Enabled the team to identify factors affecting AKG’s performance relative to DWP expectations and support data-driven decision-making. | Snowflake, Data Modelling, Power BI | [Link](#) |
 | Logistical Analysis of Mandated Appointments | Analysed the impact of mandatory appointment attendance on attendance rates and overall programme performance.  | Python, Logistical Regression, SQL | [Link](#) |
-| Customer Feedback Sentiment Analysis | Leveraged Snowflake’s AI_COMPLETE functionality to integrate a large language model (LLM) directly within the data warehouse for automated sentiment analysis. | Snowflake, SQL, LLM | [Link](#) |
+| Customer Feedback Sentiment Analysis | Leveraged Snowflake’s AI_COMPLETE functionality to integrate a large language model (LLM) directly within the data warehouse for automated sentiment analysis. | Snowflake, SQL, LLM | https://github.com/Niall-OLeary/Customer-Feedback-Sentiment-Analysis.git |
 | AKG Data Dictionary | Developed a comprehensive data dictionary cataloging all tables and fields within our Snowflake database. | Snowflake, Excel | [Link](#) |
 |  Standardised Reporting Request Process  |  Developed a consistent end-to-end scoping process for new reports and dashboards  |  Microsoft Forms, LucidChart  |  [Link](#)  |
 ---
