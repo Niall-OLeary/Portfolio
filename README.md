@@ -34,8 +34,8 @@ This project automates the creation of the monthly performance workbook for all 
 
 ## 🧰 Skills & Tools
 
-**Data & Analytics:** SQL (advanced), Power BI, DAX, Power Query, Excel  
-**BI & Reporting:** Power BI, Qlik Sense
+**Data & Analytics:** SQL, DAX, Power Query, Excel  
+**BI & Reporting:** Power BI, Qlik Sense  
 **Databases:** Snowflake, MySQL  
 **Cloud & Pipelines:** Azure, AWS, Snowflake ETL workflows  
 **Programming:** Python  
