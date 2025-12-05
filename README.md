@@ -12,22 +12,22 @@ Welcome to my GitHub portfolio — a collection of analytical/engineering projec
 Below are a few highlighted projects.
 
 ### 📊 Project 1 — *Incremental Appointment Data Pipeline*  
-Short 1–2 sentence description of what the project demonstrates.  
-**Tech:** SQL, Power BI, Python  
+This project improves the data ingestion process by optimizing the pipeline that loads data into Snowflake. It focuses on automating daily incremental uploads, reducing failures, and cutting costs while maintaining data accessibility.    
+**Tech:** SQL, Snowflake, AWS  
 🔗 **Repo:** https://github.com/Niall-OLeary/Incremental-Appointment-Data-Pipeline.git
 
 ---
 
 ### 📈 Project 2 — *DWP MI Pack Pipeline*  
-Short description about the purpose, insights, or techniques used.  
-**Tech:** SQL, Qlik Sense, ETL  
+This project automates the processing and visualisation of the DWP MI Pack, which provides critical business intelligence comparing AKG to other UK providers.  
+**Tech:** SQL, Python, Snowflake, Power BI  
 🔗 **Repo:** https://github.com/Niall-OLeary/DWP-MI-Pack-Pipeline.git
 
 ---
 
 ### 🧹 Project 3 — *AKG Monthly Workbook*  
-Short description — e.g., automation, analysis, modelling, dashboarding.  
-**Tech:** Power BI, Excel, Python  
+This project automates the creation of the monthly performance workbook for all AKG sites. It aggregates and calculates key metrics, generates presentation tables, and feeds data into Power BI for visualisation.   
+**Tech:** Snowflake, SQL, Power BI  
 🔗 **Repo:** https://github.com/Niall-OLeary/AKG-Monthly-Workbook.git
 
 ---
