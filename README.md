@@ -63,7 +63,7 @@ I enjoy building dashboards, improving data workflows, and delivering insights t
 
 Past roles include:
 - Operational Performance Analyst - AKG UK (SQL, Snowflake, Python, Power BI, Azure, AWS)
-- BI Developer - Vygon UK (QlikView/QlikSense)
+- BI Developer - Vygon UK (QlikSense)
 - Data Analyst & Reporting Lead - Psychiatry UK (MySQL, Power BI, NHS Reporting)
 
 ---
