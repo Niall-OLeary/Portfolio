@@ -53,7 +53,7 @@ A full list of additional project repositories:
 | Logistical Analysis of Mandated Appointments | Analysed the impact of mandatory appointment attendance on attendance rates and overall programme performance  | Python, Logistical Regression, SQL | https://github.com/Niall-OLeary/Logistical-Analysis-of-Mandated-Appointments.git  |
 | Customer Feedback Sentiment Analysis | Leveraged Snowflake’s AI_COMPLETE functionality to integrate a large language model (LLM) directly within the data warehouse for automated sentiment analysis | Snowflake, SQL, LLM | https://github.com/Niall-OLeary/Customer-Feedback-Sentiment-Analysis.git |
 | AKG Data Dictionary | Developed a comprehensive data dictionary cataloging all tables and fields within our Snowflake database | Snowflake, Excel | https://github.com/Niall-OLeary/AKG-Data-Dictionary.git |
-|  Standardised Reporting Request Process  |  Developed a consistent end-to-end scoping process for new reports and dashboards  |  Microsoft Forms, LucidChart  |  [Link](#)  |
+|  Standardised Reporting Request Process  |  Developed a consistent end-to-end scoping process for new reports and dashboards  |  Microsoft Forms, LucidChart  | https://github.com/Niall-OLeary/Standardised-Reporting-Request-Process.git  |
 ---
 
 ## 📄 About Me
