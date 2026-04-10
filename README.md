@@ -25,7 +25,7 @@ This project automates the processing and visualisation of the DWP MI Pack, whic
 
 ---
 
-### 🧹 Project 3 — *AKG Monthly Workbook*  
+### 🧮 Project 3 — *AKG Monthly Workbook*  
 This project automates the creation of the monthly performance workbook for all AKG sites. It aggregates and calculates key metrics, generates presentation tables, and feeds data into Power BI for visualisation.   
 **Tech:** Snowflake, SQL, Power BI  
 🔗 **Repo:** https://github.com/Niall-OLeary/AKG-Monthly-Workbook.git
