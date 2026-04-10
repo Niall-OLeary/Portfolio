@@ -50,10 +50,10 @@ A full list of additional project repositories:
 | Project | Description | Tech | Repo |
 |--------|-------------|------|------|
 | Performance Portal | Took full ownership of the end-to-end development of a performance focused dashboard. Designed to display the Monthly Workbook and visualise performance insights for the SLT. It enabled the team to identify factors affecting AKG’s performance relative to DWP expectations and support data-driven decision-making | Snowflake, Data Modelling, Power BI | [Link](https://github.com/Niall-OLeary/Performance-Portal.git) |
-| Logistical Analysis of Mandated Appointments | Analysed the impact of mandatory appointment attendance on attendance rates and overall programme performance  | Python, Logistical Regression, SQL | https://github.com/Niall-OLeary/Logistical-Analysis-of-Mandated-Appointments.git  |
-| Customer Feedback Sentiment Analysis | Leveraged Snowflake’s AI_COMPLETE functionality to integrate a large language model (LLM) directly within the data warehouse for automated sentiment analysis | Snowflake, SQL, LLM | https://github.com/Niall-OLeary/Customer-Feedback-Sentiment-Analysis.git |
-| AKG Data Dictionary | Developed a comprehensive data dictionary cataloging all tables and fields within our Snowflake database | Snowflake, Excel | https://github.com/Niall-OLeary/AKG-Data-Dictionary.git |
-|  Standardised Reporting Request Process  |  Developed a consistent end-to-end scoping process for new reports and dashboards  |  Microsoft Forms, LucidChart  | https://github.com/Niall-OLeary/Standardised-Reporting-Request-Process.git  |
+| Logistical Analysis of Mandated Appointments | Analysed the impact of mandatory appointment attendance on attendance rates and overall programme performance  | Python, Logistical Regression, SQL | [Link](https://github.com/Niall-OLeary/Logistical-Analysis-of-Mandated-Appointments.git)  |
+| Customer Feedback Sentiment Analysis | Leveraged Snowflake’s AI_COMPLETE functionality to integrate a large language model (LLM) directly within the data warehouse for automated sentiment analysis | Snowflake, SQL, LLM | [Link](https://github.com/Niall-OLeary/Customer-Feedback-Sentiment-Analysis.git) |
+| AKG Data Dictionary | Developed a comprehensive data dictionary cataloging all tables and fields within our Snowflake database | Snowflake, Excel | [Link](https://github.com/Niall-OLeary/AKG-Data-Dictionary.git) |
+|  Standardised Reporting Request Process  |  Developed a consistent end-to-end scoping process for new reports and dashboards  |  Microsoft Forms, LucidChart  | [Link](https://github.com/Niall-OLeary/Standardised-Reporting-Request-Process.git)  |
 ---
 
 ## 📄 About Me
